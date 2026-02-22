@@ -21,6 +21,6 @@ Lagos, Nigeria
 
 Connect With Me
 - LinkedIn: (www.linkedin.com/in/keren-happuch-rpn-gtl)
-- Portfolio: (Add your portfolio link here)
+- Portfolio: (https://keren-happuch-insight.github.io/data-analytics-portfolio/)
 
 
